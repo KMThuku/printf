@@ -1,6 +1,6 @@
-0x11. C - printf team project
+# 0x11. C - printf team project
 
-Group Project:                                                                      
+### Group Project:                                                                      
                                                                                     
 0. I'm not going anywhere. You can print that wherever you want to. I'm here and I'm
  a Spur for life                                                                    
@@ -59,4 +59,4 @@ ring
 Handle the following custom conversion specifier:                                   
                                                                                     
 15. *                                                                               
-All the above options work well together.
+check if all the above options work well together.
