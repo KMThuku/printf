@@ -23,6 +23,7 @@
  *
  * @fmt: The format.
  * @fn: The function associated.
+ * Author : Erick Buka & Kelly Thuku
  */
 struct fmt
 {
